@@ -1,0 +1,14 @@
+{
+  "name": "desafio-trello-cypress",
+  "version": "1.0.0",
+  "description": "Desafio trello com Cypress",
+  "main": "index.js",
+  "scripts": {
+    "test": "npx cypress open"
+  },
+  "author": "Alline Domanowski",
+  "license": "ISC",
+  "dependencies": {
+    "cypress": "^9.1.1"
+  }
+}
